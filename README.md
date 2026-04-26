@@ -1,4 +1,4 @@
-# Flower Classification (ML Project)
+# Flower Classification using Machine Learning
 
 ## Overview
 Machine learning project for classifying flower images using computer vision techniques.
@@ -8,6 +8,7 @@ Build a model that can correctly classify different flower types from images.
 
 ## Dataset
 Labeled flower images. Preprocessed using resizing, normalization, and train/test split.
+source : https://www.kaggle.com/datasets/marquis03/flower-classification
 
 ## Methodology
 - Load dataset  
